@@ -2,8 +2,11 @@
 ##Changes Due To HTTP2
 
 With the arrival of HTTP2, once it is fully (or at least somewhat) incorporated into browsers, we wil have to change the way we make websites, here are a few of currently best practices that will be discouraged in HTTP2:
+
 -Making sprites out of images
+
 -Concatenating your JS, CSS files
+
 -Loading resources, assets from outside domains
 
 HTTP2 is coming, and it will make load times faster with less work on our part, so be prepared.
