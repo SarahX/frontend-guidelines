@@ -49,7 +49,7 @@ element in a wrong way than staying neutral.
 
 ### Deprecated Tags to Avoid In HTML5
 
-'''html
+```html
 
 <acronym>
 <center>
@@ -62,7 +62,7 @@ element in a wrong way than staying neutral.
 <strike>
 <u>
 <xml>
-
+```
 ### Brevity
 
 Keep your code terse. Forget about your old XHTML habits.
