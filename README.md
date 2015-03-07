@@ -63,6 +63,8 @@ element in a wrong way than staying neutral.
 <u>
 <xml>
 ```
+Use CSS instead and don't use the table tag for layouts, although you can when making e-mail.
+
 ### Brevity
 
 Keep your code terse. Forget about your old XHTML habits.
