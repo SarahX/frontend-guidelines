@@ -47,6 +47,20 @@ element in a wrong way than staying neutral.
 </h1>
 ```
 
+### Deprecated Tags to Avoid In HTML5
+
+<acronym>
+<center>
+<dir>
+<font>
+<frame>
+<marquee>
+<noscript>
+<plaintext>
+<strike>
+<u>
+<xml>
+
 ### Brevity
 
 Keep your code terse. Forget about your old XHTML habits.
