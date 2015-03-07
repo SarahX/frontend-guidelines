@@ -49,6 +49,8 @@ element in a wrong way than staying neutral.
 
 ### Deprecated Tags to Avoid In HTML5
 
+'''html
+
 <acronym>
 <center>
 <dir>
